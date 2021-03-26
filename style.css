@@ -568,15 +568,15 @@ footer p a:hover{
         content: "Visit Now";
         line-height: 21rem;
         left: 14rem;
-        animation: visitfont 0.5s linear infinite;
+        animation: visitfont 0.8s linear infinite;
     }
     
     @keyframes visitfont{
         0%{ transform: scale(1); }
         20%{ transform: scale(1); }
-        40%{ transform: scale(1.2); }
-        60%{ transform: scale(1.4); }
-        80%{ transform: scale(1.2); }
+        40%{ transform: scale(1.4); }
+        60%{ transform: scale(1.2); }
+        80%{ transform: scale(1.4); }
         100%{ transform: scale(1); }
     }
     
@@ -584,15 +584,15 @@ footer p a:hover{
         content: "Visit Now";
         right: 14rem;
         line-height: 21rem;
-        animation: visit 0.5s linear infinite;
+        animation: visit 0.8s linear infinite;
     }
 
     @keyframes visit{
         0%{ transform: scale(1); }
         20%{ transform: scale(1); }
-        40%{ transform: scale(1.2); }
-        60%{ transform: scale(1.4); }
-        80%{ transform: scale(1.2); }
+        40%{ transform: scale(1.4); }
+        60%{ transform: scale(1.2); }
+        80%{ transform: scale(1.4); }
         100%{ transform: scale(1); }
     }
 
@@ -701,15 +701,15 @@ footer p a:hover{
         font-size: 5rem;
         line-height: 21rem;
         left: 10rem;
-        animation: visitfont 0.5s linear infinite;
+        animation: visitfont 0.8s linear infinite;
     }
     
     @keyframes visitfont{
         0%{ transform: scale(1); }
         20%{ transform: scale(1); }
-        40%{ transform: scale(1.2); }
-        60%{ transform: scale(1.4); }
-        80%{ transform: scale(1.2); }
+        40%{ transform: scale(1.4); }
+        60%{ transform: scale(1.2); }
+        80%{ transform: scale(1.4); }
         100%{ transform: scale(1); }
     }
     
@@ -721,15 +721,15 @@ footer p a:hover{
         line-height: 21rem;
         text-shadow: .2rem .2rem .2rem black;
         font-size: 5rem;
-        animation: visit 0.5s linear infinite;
+        animation: visit 0.8s linear infinite;
     }
 
     @keyframes visit{
         0%{ transform: scale(1); }
         20%{ transform: scale(1); }
-        40%{ transform: scale(1.2); }
-        60%{ transform: scale(1.4); }
-        80%{ transform: scale(1.2); }
+        40%{ transform: scale(1.4); }
+        60%{ transform: scale(1.2); }
+        80%{ transform: scale(1.4); }
         100%{ transform: scale(1); }
     }
     
